@@ -19,7 +19,7 @@ CC-BY-SA-NC [https://creativecommons.org/licenses/by-nc-sa/4.0/]
 
 # Acknowledgments
  - The RAHMI [https://www.rahmi.fr/], acronyme to Réseau des acteurs de l'histoire et de la mémoire de l'immigration en Nouvelle-Aquitaine (Network of actors of the history and memory of immigration in New Aquitaine), who recorded and directed the interviews,
-- colleagues and collaborators: Marie-Dominique Van Damme (ENSG/IGN), Deborah Lebon, Anaïs Lisette, Serge Weber (Univ. Gustave Eiffel), Aglaé Philippi.
+- colleagues and collaborators: Marie-Dominique Van Damme (ENSG/IGN), Deborah Lebon, Anaïs Lisette, Marion Cargill, Magali ??, Esteban Lorente Galvez, Serge Weber (Univ. Gustave Eiffel), Aglaé Philippi.
 
 # Team members:
 - Catherine Dominguès, LastIG/IGN
