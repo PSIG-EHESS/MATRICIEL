@@ -12,7 +12,7 @@ It contains per folder :
 
 The audio files can be shared upon request.
 
-**This work is in progress. Do not hesitate to contact for further information.**
+**This work is in progress. Do not hesitate to contact the team members for further information.**
 
 # Acknowledgments
  - The RAHMI (https://www.rahmi.fr/), acronyme to Réseau des acteurs de l'histoire et de la mémoire de l'immigration en Nouvelle-Aquitaine (Network of actors of the history and memory of immigration in New Aquitaine), who recorded and directed the interviews.
