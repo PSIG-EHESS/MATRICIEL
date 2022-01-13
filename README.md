@@ -19,6 +19,6 @@ The audio files can be shared upon request.
 - colleagues and collaborators: Marie-Dominique Van Damme (ENSG/IGN), Deborah Lebon, Anaïs Lisette, Serge Weber (Univ. Gustave Eiffel), Aglaé Philippi
 
 # Team members:
-Catherine Dominguès, LastIG/IGN
-Laurence Jolivet, LastIG/IGN
-Carmen Brando, CRH/EHESS
+- Catherine Dominguès, LastIG/IGN
+- Laurence Jolivet, LastIG/IGN
+- Carmen Brando, CRH/EHESS
