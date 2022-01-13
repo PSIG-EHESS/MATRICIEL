@@ -22,6 +22,6 @@ CC-BY-SA-NC [https://creativecommons.org/licenses/by-nc-sa/4.0/]
 - colleagues and collaborators: Marie-Dominique Van Damme (ENSG/IGN), Deborah Lebon, Anaïs Lisette, Serge Weber (Univ. Gustave Eiffel), Aglaé Philippi.
 
 # Team members:
-- Catherine Dominguès, LastIG/IGN
-- Laurence Jolivet, LastIG/IGN
-- Carmen Brando, CRH/EHESS
+- Catherine Dominguès, LastIG/IGN, catherine(dot)domingues(at)ign(dot)fr
+- Laurence Jolivet, LastIG/IGN, laurence(dot)jolivet(at)ign(dot)fr
+- Carmen Brando, CRH/EHESS, carmen(dot)brando(at)ehess(dot)fr
