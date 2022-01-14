@@ -1,0 +1,81 @@
+
+=====================================================================
+Commentaires sur la transcription de VP12
+=====================================================================
+
+
+Sur les fichiers eux-mêmes (fichier audio unique .mp3 et le fichier .cha qui contient la transcription alignée avec l’audio)
+——————————————————————————————————————————————————————
+L’alignement entre les fichiers texte et audio a été effectué avec un séquençage de 20 secondes environ.
+Les repères d’alignement sont souvent un peu décalés entre le texte et l’audio. 
+
+
+Informations générales sur le mode de transcription
+——————————————————————————————————————————————————————
+
+
+Contexte de l’enregistrement
+——————————————————————————————————————————————————————
+
+
+Remarques sur l’oral (en relation avec le guide de transcription)
+——————————————————————————————————————————————————————
+Beaucoup de mots ou groupes de mots en langue espagnole. Des exemples récurrents : 
+guerra 
+porque 
+del 
+provincia
+cuando
+frontiera
+el
+un/una
+
+Également beaucoup de mots avec une prononciation hispanisantes. Quelques exemples avec la pronociation espagnole indiqués en début de transcription dans la balise dédiée <pronHisp=prononciation espagnole></pronHisp> et ensuite balise utilisée sans noter la prononciation <pronHisp> : 
+<pronHisp=epiceria> épicerie </pronHisp>
+<pronHisp=ferma> ferme </pronHisp>
+<pronHisp=boulangeria> boulangerie </pronHisp>
+
+Quelques mots en allemand :
+<lg=allemand> stuben </lg=allemand> qui signifierait les chambres (singulier : stube = pièce à vivre, salle, salon)
+frescamen : potentiellement de l’allemand mais non certain donc pas de balises indiquées. 
+
+
+
+Incertitudes dans la transcription mais une interprétation est choisie
+——————————————————————————————————————————————————————
+
+
+Interprétation des Npr de lieux et de personnes
+——————————————————————————————————————————————————————
+Pour les noms de lieux :
+Plusieurs noms de lieux dits en espagnols, lieux en Espagne ou en France : 
+-	Córdoba (Cordoue)
+-	España (Espagne)
+-	Burdeos (Bordeaux) 
+
+Choix de transcription et d’identifiant :  
+-	Almatret, initialement transcrit El Matré. La municipalité de Almatret est située entre Tortosa et Lleida, pas loin de l’Èbre. VP12 dit “on est descendu jusqu’à Tortosa”, Almatret est par contre au nord de Tortosa mais le verbe descendre n’est pas forcément lié à une orientation cardinale et Lleida est mentionnée ensuite
+-	Tibidabo, choix de l’identifiant dans GeoNames correspondant à la colline (classe T et code TM), et non au parc
+-	Pour la ville de Cordoue, aussi mentionnée par Córdoba, choix de l’identifiant dans GeoNames correspondant à la ville et non à la province, même lorsque mention de province de Cordoue (balise de lieu que pour la ville de Cordoue)
+
+Des lieux-dits non présents dans les gazetiers et donc sans identifiant :
+-	Château Gaby, château et lieu-dit à Fronsac
+-	Caillou, peut-être Château Caillou AOC Canon-Fronsac
+
+Noms de lieux supposés mais non transcrits : 
+-	ils venaient del côté del refuge y avait Iéna, initialement <pron=pi> --- y avait Iéna </pron=pi>
+
+Des abréviations : 
+-	Talavera, identifiant associé de la municipalité Talavera de la Reina située à 60 km de Tolède
+
+Remarques sur la localisation :
+-	Le fleuve le Tage, mentionné par Tajo, est associé dans GeoNames à des coordonnées correspondant à son embouchure au Portugal alors que dans le récit est mentionné le Tage à Tolède.
+
+
+Pour les noms de personnes :
+-	<DL> NP6 et NP7 : remplacer par VP12FIE1 et VP12FIE2 ? (Auquel cas, vérifier le header)
+-	<DL> Anonymiser "Carrero" : dans les compagnies de travail avec VP12, puis à Compiègne avec VP12 (mais pas déporté), fusillé à Barcelone 
+-	<DL>  Surnoms à ajouter ?
+- "Le Granaíno" : patron de la ferme où travaillait VP12, originaire de Grenade.
+- "El Valenciano" (Le Valencien) : surnom d'un résistant aviateur espagnol (dont VP12 ne connaît pas le nom) 
+- "L'Andalou" et "El Espejeño" : surnoms de VP12 dans la résistance à Bordeaux 

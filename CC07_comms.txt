@@ -1,0 +1,68 @@
+
+=====================================================================
+Commentaires sur la transcription de CC07
+=====================================================================
+
+Sur les fichiers eux-mêmes (fichier audio unique .mp3 et le fichier .cha qui contient la transcription alignée avec l’audio)
+——————————————————————————————————————————————————————
+L’alignement entre les fichiers texte et audio a été effectué avec un séquençage de 20 secondes environ.
+
+
+Informations générales sur le mode de transcription
+——————————————————————————————————————————————————————
+Par rapport aux premières versions, la plupart des passages <pron=pi> ont été compris et transcrits selon une interprétation. Exemples de nouvelles transcriptions par rapport aux premières versions : 
+-	c'est exact <pron=pi> l'avantage (avant : “c'est exact mais gamin j'ai eu l'avantage”)
+-	une éducation riche <pron=nonstd> (avant : “une éducation stricte <pron=nonstd>”)
+-	une bataille qui a été sanglante d'ailleurs (avant : “<pron=pi> d'ailleurs”)
+-	commissaire de police qui était dans la lutte (avant : “commissaire de police qui était dans la rue <pron=lieu>”)
+
+Afin d’évaluer les variations entre transcripteurs, une écoute par un 2ème transcripteur a été effectuée sur la version transcrite et annotée telle que déposée. Les variations sur les premières lignes du fichier texte (environ 300 lignes) (version déposée → remarque ou autre proposition d’un 2ème transcripteur) (les numéros de lignes sont indicatifs et susceptibles d’avoir changé en fonction de corrections ultérieures) : 
+-	l.12, l.13 les balises <pause> indiquées → ce sont surtout des respirations, mais peuvent être annotées comme des pauses
+-	l. 18 “à <repetition> à” → pas sûr qu’il y ait deux “à” dans 
+-	l.26 “<euh> le 25 août 2009” → plutôt qu’un <euh>, un “leeeee”
+-	l.48 “à écrire à et à beaucoup” → “à écrire <revision> à <\revision> et à beaucoup”
+-	l. 59 “ou avant la guerre d'” → “<repetition> ou <\repetition> ou avant la guerre d'”
+-	l.60 <repetition> eh non eh non </repetition> → répétition ou emphase comme pour la l.38 “<emphase> oui oui </emphase> oui”
+-	l.118 “<euh> c'était dans la région” → “<euh> <mic> c'était dans la région” (balise <mic> non soumise à indication exhaustive)
+-	l.164 “eues à ce moment-là ?” → “<euh> eues à ce moment-là ?”
+-	l.186 “vous coupiez” → “<revision> vo- <\revision> vous coupiez”
+-	l.192 “<repetition> que le le </repetition>” → “<revision> que le le </revision>” ?
+-	l.198 “pas mis une hache” → ”pas <revision> me- </revision> mis une hache”
+-	l.215 “pouvoir rejoindre” → “pouvoir <si> rejoindre” ?
+-	l. 227 “ça comme si” → “<rireentendu> ça comme si” (ou plutôt il parle en riant)
+-	l. 228 “<repetition> une fi- </repetition> une fille” → “<revision> une fi- </revision> une fille” (révision si mot coupé, comme en ligne 242)
+-	l.299 “moi disons que” → prononcé “queee”
+-	l. 325 “que elle elle savait lire” → peut-être “que <repetition> elle </repetition> elle savait lire”
+Beaucoup de variations correspondent à des balises non soumises à indication exhaustive dans le guide de transcription (ex. <mic> <si> <pause>). La diction n’est parfois pas assez nette pour distinguer entre prononciations des mots ou des révisions.
+
+
+Contexte de l’enregistrement
+——————————————————————————————————————————————————————
+
+
+Remarques sur l’oral (en relation avec le guide de transcription)
+——————————————————————————————————————————————————————
+Exemples de corrections fréquentes :
+-	ajout des balises mdd : <mdd> enfin </mdd>
+-	Remplacements entre balises <repetition></repetition> qui sont en fait des <revision></revision> et inversement
+-	Ajouts de balises <emphase></emphase> et <rireentendu>
+-	Rectifications de la balise <pron=[API]>
+
+Beaucoup d’interjections et d’onomatopées et notamment successives, ex. <mdd> oh eh bien euh voilà </mdd>.
+
+Plusieurs successions ou d’inclusion de balises <revision></revision>, <repetition></repetition> et <mdd></mdd>. Dans ce cas, selon le guide de transcription, tout est regroupé dans <revision></revision>. Ex. <revision> comme moyen de de voilà </revision> donc sans indiquer <repetition> de </repetition> ni <mdd> voilà </mdd>.
+
+
+Incertitudes dans la transcription mais une interprétation est choisie
+——————————————————————————————————————————————————————
+Une incertitude quand au choix de transcription concernant en 37 dans </mdd> fidélité en 37 au drapeau <bc> en 37 <bc> <revision> il a. 
+
+
+Interprétation des Npr de lieux et de personnes
+——————————————————————————————————————————————————————
+Pour les noms de lieux :
+
+Pour les noms de personnes :
+-	916 Julia/NP165 et Julieta/NP165SUR : sûr que le deuxième prénom est le surnom du premier ? Ou est-ce juste une révision du locuteur ? Julieta est bien le diminutif de Julia, et donc considéré comme un surnom.
+
+
