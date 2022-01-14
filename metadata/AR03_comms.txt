@@ -1,0 +1,47 @@
+﻿
+=====================================================================
+Commentaires sur la transcription de AR03
+=====================================================================
+
+
+Sur les fichiers eux-mêmes (fichier audio unique .mp3 et le fichier .cha qui contient la transcription alignée avec l’audio)
+——————————————————————————————————————————————————————
+L’alignement entre les fichiers texte et audio a été effectué avec un séquençage plus long que les 20 secondes prévues. Il peut être plus compliqué de naviguer dans le texte de transcription car le récit contient des monologues relativement longs. 
+
+
+Informations générales sur le mode de transcription
+——————————————————————————————————————————————————————
+
+
+Contexte de l’enregistrement
+——————————————————————————————————————————————————————
+
+
+Remarques sur l’oral (en relation avec le guide de transcription)
+——————————————————————————————————————————————————————
+La prononciation des la lettre v est b (comme en espagnol), notamment en début de mots ex. Valence, Vignolet. 
+
+
+Incertitudes dans la transcription mais une interprétation est choisie
+——————————————————————————————————————————————————————
+Choix de transcription dans la version déposée : 
+-	la veuve elle avait, alors qu'initialement la veuve était transcrit par un mot espagnol non compris. 
+-	des ouï-dire <pron=cuidir>, initialement transcrit  en des Cuidir (hypothèse non retenue que ce pourrait être un lieu des cuidir(e)s)
+
+
+Interprétation des Npr de lieux et de personnes
+——————————————————————————————————————————————————————
+Pour les noms de lieux :
+Des choix de transcription : 
+-	une ville de la Gérone de Gerona, initialement une ville de la <pron=lieu> de <pron=lieu>. L’identifiant du lieu est celui dans GeoNames de la Provincia de Girona avec nom alternatif Gerona, différent de la ville de Gijón a priori non citée. 
+-	Bourg-Madame, mentionné deux fois, initialement Burlada. L’identifiant est celui de GeoNames, même si normalement les lieux en France ont un identifiant BDNyme.
+-	Vignonet (avec le v prononcé b), ce qui semble logique par rapport à la mention de Saint-Émilion. L’identifiant est celui de GeoNames, même si normalement les lieux en France ont un identifiant BDNyme.
+
+Mention de San Miguel de los Reyes, mentionné deux fois : c’est un monastère à Valence en Espagne qui a servi de prison. Il n’est pas présent dans GeoNames donc pas d’identifiant à indiquer. Prononciation dans les deux mentions de los sans le s final. 
+
+
+Pour les noms de personnes :
+-	monsieur Despagne, initialement monsieur  d'Espagne. Ce c’est pas certain que ce soit la bonne orthographe, mais c'est a priori un nom de famille.
+
+
+

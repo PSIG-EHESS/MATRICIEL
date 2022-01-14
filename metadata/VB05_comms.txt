@@ -1,0 +1,36 @@
+
+=====================================================================
+Commentaires sur la transcription de VB05
+=====================================================================
+
+
+Sur les fichiers eux-mêmes (fichier audio unique .mp3 et le fichier .cha qui contient la transcription alignée avec l’audio)
+——————————————————————————————————————————————————————
+
+
+Informations générales sur le mode de transcription
+——————————————————————————————————————————————————————
+
+
+Contexte de l’enregistrement
+——————————————————————————————————————————————————————
+
+
+Remarques sur l’oral (en relation avec le guide de transcription)
+——————————————————————————————————————————————————————
+Le mot enfin est systématiquement prononcé "fin" par beaucoup de locuteurs, notamment par CH_MB1 et VB05. Il n’y a donc pas de balise pour indiquer une prononciation non standard ou la prononciation phonétique. 
+
+Il n’y a pas de mots espagnol employés dans cet entretien et donc pas de traduction nécessaire. 
+
+
+Incertitudes dans la transcription mais une interprétation est choisie
+——————————————————————————————————————————————————————
+
+
+Interprétation des Npr de lieux et de personnes
+——————————————————————————————————————————————————————
+Pour les noms de lieux :
+-	Des noms de lieux ne sont pas géolocalisés car non présents dans les gazetiers utilisés, par exemple, le restaurant L'Aiglon <pron=pi> qui est situé place Puy Paulin à Bordeaux.
+
+Pour les noms de personnes :
+

@@ -1,0 +1,39 @@
+
+=====================================================================
+Commentaires sur la transcription de MA01
+=====================================================================
+
+
+Sur les fichiers eux-mêmes (fichier audio unique .mp3 et le fichier .cha qui contient la transcription alignée avec l’audio)
+——————————————————————————————————————————————————————
+L’alignement entre les fichiers texte et audio a été effectué avec un séquençage de 20 secondes environ.
+
+
+Informations générales sur le mode de transcription
+——————————————————————————————————————————————————————
+Deux courts passages n’étaient pas transcrits dans les premières versions de transcription et le sont à présent. 
+A ajouter dans "lexiqueOnomatopeesEtInterjectionsMATRICIEL" : "justement", "ou".
+
+
+Contexte de l’enregistrement
+——————————————————————————————————————————————————————
+
+
+Remarques sur l’oral (en relation avec le guide de transcription)
+——————————————————————————————————————————————————————
+
+
+Incertitudes dans la transcription mais une interprétation est choisie
+——————————————————————————————————————————————————————
+
+
+Interprétation des Npr de lieux et de personnes
+——————————————————————————————————————————————————————
+Pour les noms de lieux :
+-	Neuvic sur l'Isle : le nom officiel est Neuvic
+-	Une mention de la Dordogne le département (et non pas la rivière normalement)
+-	Les identifiants des communes françaises citées Monpazier et Les Lèches sont issues de Geonames (et non de la BD Nyme)
+
+Pour les noms de personnes :
+-	Angel --- AV16 (parle de AV16 ou c’est bien une personne à anonymiser ?) 
+

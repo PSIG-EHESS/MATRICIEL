@@ -1,0 +1,43 @@
+
+=====================================================================
+Commentaires sur la transcription de LC08
+=====================================================================
+
+
+Sur les fichiers eux-mêmes (fichier audio unique .mp3 et le fichier .cha qui contient la transcription alignée avec l’audio)
+——————————————————————————————————————————————————————
+L’alignement entre les fichiers texte et audio a été effectué avec un séquençage de 20 secondes environ.
+L’alignement est un peu décalé.
+
+
+Informations générales sur le mode de transcription
+——————————————————————————————————————————————————————
+
+
+Contexte de l’enregistrement
+——————————————————————————————————————————————————————
+
+
+Remarques sur l’oral (en relation avec le guide de transcription)
+——————————————————————————————————————————————————————
+Des prononciations hispanisantes non systématique mais fréquentes concernent les lettres et mots suivants : le [le], v [b], j [j]. Au vu de cette fréquence, aucune balise n’est ajoutée lorsque cette prononciation est effectivement constatée. 
+
+
+Incertitudes dans la transcription mais une interprétation est choisie
+——————————————————————————————————————————————————————
+
+
+Interprétation des Npr de lieux et de personnes
+——————————————————————————————————————————————————————
+Pour les noms de lieux :
+-	Des noms modifiés, ajoutés ou supprimés par rapport aux premières transcriptions, même si une incertitude peut demeurer sur les choix de transcription : 
+-	Condal. Il pourrait en fait s’agir de Condat qui est à l’est de la commune de Fumel (comme Monsempron qui est mentionné comme une limite et est situé à l’ouest de Fumel). Condat est un village qui a été absorbé par la commune de Fumel et est donc à présent un quartier de Fumel. Il n’est donc pas associé à un identifiant car non présent dans les gazetiers utilisés. Remplacer par Condat ou <pron=pi> ? (2 mentions dans le récit)
+-	Siorac. Transcrit Surac dans les premières versions sans identification. Il pourrait s’agir de Siorac juste au nord de Belvès et faisant partie du canton de Belvès. Le nom de cette commune fût Siorac, puis Siorac-et-Fongauffier, et à présent Siorac-en-Périgord. 
+-	el Fuerte de Jaizkibel. Jaizkibel étant la montagne à l’ouest de Fontarrabie, sur lequel est le Fort de Guadalupe.
+-	<pron=pi> pour a priori un lieu, mais pas certain, mentionné près de la mention de la ville de Mosset. Dans les premières version de transcription : le désert ou les Deux-Sèvres, remplacé donc par <pron=pi>.
+-	Une possible ambiguïté sur des formes de nom de lieux : Villeneuve correspond parfois à Villeneuve-sur-Yonne (plutôt dans la première moitié de la transcription), et parfois à Villeneuve-sur-Lot (plutôt dans la deuxième moitié de la transcription). Pour une annotation automatique à l’aide d’un gazetier, cela suppose de désambiguïser fgrâce au contexte.
+-	Pas d’annotation de France quand il apparaît dans Banque de France. À harmoniser ensuite avec les autres cas. Pour l’instant dans le guide de transcription, annotation des lieux comme Radio <lieu id=xxx> Londres </lieu> mais on pourra les supprimer ensuite. 
+
+Vérifier que Pampelune a été ajouté au dictionnaire des NPr du récit. 
+
+Pour les noms de personnes :

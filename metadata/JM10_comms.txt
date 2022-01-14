@@ -1,0 +1,50 @@
+
+
+=====================================================================
+Commentaires sur la transcription de JM10
+=====================================================================
+
+
+Sur les fichiers eux-mêmes (fichier audio unique .mp3 et le fichier .cha qui contient la transcription alignée avec l’audio)
+——————————————————————————————————————————————————————
+L’alignement entre l’audio et le texte de transcription est parfois un peu décalé.
+La durée entre les repères d’alignement sont un peu longue, notamment pour cet entretien qui n’est pas facile à suivre car contenant beaucoup d’informations.
+
+Informations générales sur le mode de transcription
+——————————————————————————————————————————————————————
+
+
+Contexte de l’enregistrement
+——————————————————————————————————————————————————————
+
+
+Remarques sur l’oral (en relation avec le guide de transcription)
+——————————————————————————————————————————————————————
+JM10 utilise a priori beaucoup de mots que nous avons associés à des <mdd>. Plusieurs onomatopées présentes annotées par des balises <mdd> :
+-	<mdd> naturellement </mdd>
+-	<mdd> disons </mdd>
+-	<mdd> c'est-à-dire </mdd>
+A AJOUTER DANS "lexiqueOnomatopeesEtInterjectionsMATRICIEL" ?
+
+La prononciation de la fin de certains mots est quasi systématiquement élidés comme pour : 
+-	donc prononcé don' 
+-	Madrid prononcé Madri' 
+-	avec prononcé ave'
+Cette prononciation étant systématique n’est pas indiqué dans la transcription. 
+
+Certains mots sont prononcés de façon particulière, par exemple fasciste prononcé <pron=[fasist]>. A AJOUTER DANS LA TRANSCRIPTION ?
+
+
+Incertitudes dans la transcription mais une interprétation est choisie
+——————————————————————————————————————————————————————
+
+
+Interprétation des Npr de lieux et de personnes
+——————————————————————————————————————————————————————
+Pour les noms de lieux :
+-	Les NPr de lieux mentionnés Palma del Río et Palma sont a priori les même, donc associé au même identifiant du gazetier.
+
+Pour les noms de personnes :
+-	À VERIFIER : 462 JM10MERSUR --- la JM10MER (Oui comme c’est le même nom) : est-ce qu’il faut indiquer JM10MER ou JM10MERSUR partout ? Est-ce un surnom ? Dans la liste des noms de personnes : la Juana avec majuscule ?
+-	Pour JM10ONC1, la transcription initiale du RAHMI indique : El Tio Curo, qui a pu être interprété comme un nom de lieu. Choix de transcription dans notre version : <lg=espagnol> el tío </lg=espagnol> <trad> </trad> JM10ONC1, JM10ONC1 correspondant ainsi à l'oncle Curro. Ceci a pour conséquence les codes suivants de personnes dans la transcription : JM10ONC2 (au lieu de JM10ONC1) et JM10ONC3 (au lieu de JM10ONC2) correspondant à Edouardo. A VÉRIFIER ET METTRE À JOUR LES CODES.
+
