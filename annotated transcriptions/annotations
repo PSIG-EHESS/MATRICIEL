@@ -1,1 +1,43 @@
+Description of the annotation tags from pipeline version 1 and pipeline version 2
+
+#######################################################
+_pipeline_1: automatic annotations
+-------------------------------------------------------
+BDNyme
+Geonames
+corrected
+disfluence
+location
+locationenplus
+
+#######################################################
+_pipepline_2 : automatic annotations
+-------------------------------------------------------
+B-LOC
+I-LOC
+CLac_Locations
+DEFAULT_TOKEN
+I-LOC
+Identifier
+NP
+NPr
+Name
+Negation
+PP
+Sentence
+Sentiment
+SpaceToken
+Split
+Token
+Turn
+fact-etait
+familyTerms
+functionword
+judge-etait
+myFamilyRelations
+poss_loc_PP
+poss_temp_PP
+transcriber_comment
+turn_taker
+verb
 
