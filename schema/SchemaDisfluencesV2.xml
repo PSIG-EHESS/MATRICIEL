@@ -1,0 +1,22 @@
+<schema xmlns="http://www.w3.org/2000/10/XMLSchema">
+<!-- XSchema definition for dysfluencies -->
+<element name="disfluence">   
+    <complexType>
+      <attribute name="nature" >
+        <simpleType>
+          <restriction base="string">
+                    <enumeration value="NR" />
+            <enumeration value="repetition" />
+            <enumeration value="revis"/>
+             <enumeration value="hesitation"/>
+              <enumeration value="marqueurDiscours"/>
+               <enumeration value="interjection"/>
+			    <enumeration value="langue"/>
+			     <enumeration value="bruit"/>
+			      <enumeration value="silence"/>
+          </restriction>
+        </simpleType>   
+          </attribute>
+    </complexType>
+  </element>
+</schema>

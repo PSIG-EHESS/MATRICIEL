@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2000/10/XMLSchema">
+    <!-- XSchema definition for Location -->
+    <element name="location">   
+        <complexType>
+            <attribute name="1-source" use="required">
+                <simpleType>
+                    <restriction base="string">
+			<enumeration value="manuel"/>
+                        <enumeration value="BDNymeWGS84"/>
+                        <enumeration value="Geonames"/>
+                        <enumeration value="Geofla"/>
+                    </restriction>
+                </simpleType>   
+            </attribute>
+            <attribute name="2-entityType" use="required" default="loc">
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="loc" />
+                        <enumeration value="obj"/>
+                    </restriction>
+                </simpleType>   
+            </attribute>
+            <attribute name="3-theme" use="required">
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="political"/>
+                        <enumeration value="geo"/>
+                        <enumeration value="equip"/>
+                        <enumeration value="subj"/>
+                    </restriction>
+                </simpleType>   
+            </attribute>
+            <attribute name="41-vague"> 
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="no"/>
+                        <enumeration value="yes"/>
+                    </restriction>
+                </simpleType>
+            </attribute>
+            <attribute name="42-sentiment" default="neutral" use="required">
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="positive"/>
+                        <enumeration value="neutral"/>
+                        <enumeration value="negative"/>
+                    </restriction>
+                </simpleType>   
+            </attribute>
+            <attribute name="5-id">       
+                <simpleType>
+                    <restriction base="string" />
+                </simpleType>    
+            </attribute>
+            <attribute name="51-category"> 
+                <simpleType>
+                    <restriction base="string" />
+                </simpleType>      
+            </attribute>
+            <attribute name="52-subCategory">  
+                <simpleType>
+                    <restriction base="string" />
+                </simpleType>          
+            </attribute>
+            <attribute name="61-continent">
+                <simpleType>
+                    <restriction base="string" />
+                </simpleType>    
+            </attribute> 
+            <attribute name="62-country">
+                <simpleType>
+                    <restriction base="string" />
+                </simpleType>    
+            </attribute>
+            <attribute name="63-admin2">
+                <simpleType>
+                    <restriction base="string" />
+                </simpleType>    
+            </attribute>     
+            <attribute name="64-admin4">
+                <simpleType>
+                    <restriction base="string" />
+                </simpleType>    
+            </attribute>     
+            <attribute name="65-x">       
+                <simpleType>
+                    <restriction base="number" />
+                </simpleType>    
+            </attribute>
+            <attribute name="66-y">    
+                <simpleType>
+                    <restriction base="number" />
+                </simpleType>          
+            </attribute>
+            <attribute name="67-geometry" default="NR">    
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="NR"/>
+                        <enumeration value="micro"/>
+                    </restriction>
+                </simpleType>          
+            </attribute>
+        </complexType>
+    </element>
+</schema>
