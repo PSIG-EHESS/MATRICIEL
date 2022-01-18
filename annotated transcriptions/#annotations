@@ -1,8 +1,8 @@
 Description of the annotation tags from pipeline version 1 and pipeline version 2
 
-#######################################################
-_pipeline_1: automatic annotations
--------------------------------------------------------
+###############################################################
+_pipeline_1: automatic annotation from pipeline version 1
+---------------------------------------------------------------
 BDNyme
 Geonames
 corrected
@@ -10,9 +10,9 @@ disfluence
 location
 locationenplus
 
-#######################################################
-_pipepline_2 : automatic annotations
--------------------------------------------------------
+###############################################################
+_pipeline_2: automatic annotation from pipeline version 2
+---------------------------------------------------------------
 B-LOC
 I-LOC
 CLac_Locations
